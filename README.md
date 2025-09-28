@@ -44,25 +44,27 @@ and **forensic technology (gender pay equality)**.
 
 ---
 
+## 📂 Repository Structure
+
+```text
 deloitte-job-simulation-daikibo/
 │
 ├── data/                
-│   ├── daikibo-telemetry-data.json   # Telemetry dataset (if allowed, else synthetic sample)
-│   ├── Equality Table.xlsx           # Provided Excel dataset
+│   ├── daikibo-telemetry-data.json        # Telemetry dataset (if allowed, else synthetic sample)
+│   ├── Equality Table.xlsx                # Provided Excel dataset
 │
 ├── tableau/             
-│   ├── downtime_dashboard.twbx       # Tableau workbook (telemetry task)
-│   └── dashboard_screenshot.png      # Final screenshot submission
+│   └── dashboard_screenshot.png           # Final screenshot submission
 │
 ├── excel/               
 │   └── Equality Table - Classified.xlsx   # Completed Excel forensic task
 │
 ├── reports/             
-│   ├── task1_findings.pdf            # Optional summary of Tableau insights
-│   ├── task2_findings.pdf            # Optional summary of forensic analysis
-│
-├── README.md            
-└── .gitignore
+│   ├── task1_findings.pdf                 # Optional summary of Tableau insights
+│   ├── task2_findings.pdf                 # Optional summary of forensic analysis
+│          
+└── README.md 
+
 
 ---
 
