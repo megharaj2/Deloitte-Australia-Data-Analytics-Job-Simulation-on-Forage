@@ -64,9 +64,10 @@ deloitte-job-simulation-daikibo/
 │   ├── task2_findings.pdf                 # Optional summary of forensic analysis
 │          
 └── README.md 
----
+```
 
 ---
+
 
 ## 📊 Key Deliverables
 - Tableau dashboard to analyze machine downtime
