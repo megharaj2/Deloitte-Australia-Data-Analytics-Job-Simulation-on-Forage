@@ -58,10 +58,6 @@ deloitte-job-simulation/
 │
 ├── excel/               
 │   └── Equality Table - Classified.xlsx   # Completed Excel forensic task
-│
-├── reports/             
-│   ├── task1_findings.pdf                 # Optional summary of Tableau insights
-│   └── task2_findings.pdf                 # Optional summary of forensic analysis
 │          
 └── README.md 
 ```
