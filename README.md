@@ -47,7 +47,7 @@ and **forensic technology (gender pay equality)**.
 ## 📂 Repository Structure
 
 ```text
-deloitte-job-simulation-daikibo/
+deloitte-job-simulation/
 │
 ├── data/                
 │   ├── daikibo-telemetry-data.json        # Telemetry dataset (if allowed, else synthetic sample)
@@ -61,7 +61,7 @@ deloitte-job-simulation-daikibo/
 │
 ├── reports/             
 │   ├── task1_findings.pdf                 # Optional summary of Tableau insights
-│   ├── task2_findings.pdf                 # Optional summary of forensic analysis
+│   └── task2_findings.pdf                 # Optional summary of forensic analysis
 │          
 └── README.md 
 ```
